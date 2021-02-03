@@ -1,2 +1,2 @@
 # basic_python
-Problems i solved when I was learning to program.
+Problems i solved when i was learning to program.
