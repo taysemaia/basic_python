@@ -1,2 +1,2 @@
 # basic_python
-The basics of python programming.
+Problems i solved when I was learning to program.
